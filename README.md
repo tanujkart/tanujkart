@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Tanuj 👋</h1>
-
+ <h1 align="center">Hi, I'm Tanuj 👋</h1>
+     
   <p align="center">
     CS student &amp; early-stage founder building AI infrastructure
   tools.
   </p>
-
+  
   <p align="center">
     <a href="https://tanujk.com"><img 
   src="https://img.shields.io/badge/Website-tanujk.com-7aa2f7?style=for-
@@ -75,7 +75,7 @@
   performance and design clarity.
 
   ---
-
+  
   ### 📈 Coding Activity
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?userna
@@ -87,12 +87,14 @@
   ### 📊 GitHub Stats
 
   <p align="center">
-    <img height="165" 
-  src="https://github-readme-stats.vercel.app/api?username=tanujkart&sho
-  w_icons=true&hide_border=true&count_private=true&theme=tokyonight" 
-  alt="GitHub stats" />
-    <img height="165" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta
-  nujkart&layout=compact&hide_border=true&theme=tokyonight" alt="Top 
-  languages" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.a
+  pp/api/cards/stats?username=tanujkart&theme=tokyonight" alt="GitHub 
+  stats" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.a
+  pp/api/cards/most-commit-language?username=tanujkart&theme=tokyonight"
+  alt="Most-used languages" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=tanujkart&theme=toky
+  onight&hide_border=true" alt="Contribution streak" />
   </p>
