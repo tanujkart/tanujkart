@@ -12,12 +12,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![Contribution activity graph](activity.svg)
-
----
-
 ## 🚀 Featured Projects
 
 - **[thinkclear](https://thinkclear.net)** — Smart-glasses platform with real-time facial recognition and AI-powered memory assistance, built for memory-impaired users. Demoed at M&TSI 2025 · 400K+ interactions.
