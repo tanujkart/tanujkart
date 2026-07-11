@@ -12,6 +12,12 @@
 
 ---
 
+## 📈 Contribution Graph
+
+![Contribution activity graph](activity.svg)
+
+---
+
 ## 🚀 Featured Projects
 
 - **[voice-assistant](https://github.com/tanujkart/voice-assistant)** — macOS push-to-talk voice assistant that answers questions about your Google Calendar, Tasks, and Gmail out loud.
