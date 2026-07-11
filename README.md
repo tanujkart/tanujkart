@@ -20,10 +20,10 @@
 
 ## 🚀 Featured Projects
 
+- **[thinkclear](https://thinkclear.net)** — Smart-glasses platform with real-time facial recognition and AI-powered memory assistance, built for memory-impaired users. Demoed at M&TSI 2025 · 400K+ interactions.
+- **[tagopt](https://tagopt.com)** — AI-powered hashtag optimization engine that reads platform algorithms and post intent to surface high-signal tags — an SEO layer for organic content growth.
+- **[nemo](https://github.com/tanujkart/nemo)** · [Devpost](https://devpost.com/software/nemo-7vrum0) — Autonomous underwater vehicle for real-time aquatic environmental monitoring, paired with a live global modeling dashboard.
 - **[voice-assistant](https://github.com/tanujkart/voice-assistant)** — macOS push-to-talk voice assistant that answers questions about your Google Calendar, Tasks, and Gmail out loud.
-- **[nemo](https://github.com/tanujkart/nemo)** · [Devpost](https://devpost.com/software/nemo-7vrum0) — Autonomous underwater vehicle for real-time aquatic environmental monitoring, with a global modeling dashboard.
-- **[engage360](https://github.com/tanujkart/engage360)** — Civic engagement app connecting constituents with their representatives. 🏆 Congressional App Challenge 2025 winner.
-- **[portfolio](https://github.com/tanujkart/portfolio)** — Personal site documenting projects, research, and writing — built for performance and design clarity.
 
 ---
 
