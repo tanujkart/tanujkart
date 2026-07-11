@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280" role="img" aria-label="Contribution activity graph">
+<defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#70a5fd" stop-opacity="0.42"/><stop offset="1" stop-color="#70a5fd" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="839" height="279" rx="10" ry="10" fill="#1a1b27" stroke="#2a2b3c"/>
+<text x="24" y="36" fill="#e4e2e2" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="600">Contribution Graph</text>
+<text x="816" y="36" fill="#8b90a8" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="end">108 contributions · last 30 days</text>
+<line x1="46" y1="246" x2="816" y2="246" stroke="#2a2b3c"/>
+<path d="M 46.0 237.6 C 50.4 239.0 63.7 244.6 72.6 246.0 C 81.4 247.4 90.3 257.2 99.1 246.0 C 108.0 234.8 116.8 208.3 125.7 179.0 C 134.5 149.6 143.4 78.4 152.2 70.0 C 161.1 61.6 169.9 99.3 178.8 128.7 C 187.6 158.0 196.5 226.4 205.3 246.0 C 214.2 265.6 223.0 246.0 231.9 246.0 C 240.7 246.0 249.6 246.0 258.4 246.0 C 267.3 246.0 276.1 246.0 285.0 246.0 C 293.8 246.0 302.7 258.6 311.5 246.0 C 320.4 233.4 329.2 174.8 338.1 170.6 C 346.9 166.4 355.8 208.3 364.6 220.9 C 373.5 233.4 382.3 243.2 391.2 246.0 C 400.0 248.8 408.9 251.6 417.7 237.6 C 426.6 223.7 435.4 173.4 444.3 162.2 C 453.1 151.0 462.0 167.8 470.8 170.6 C 479.7 173.4 488.5 177.6 497.4 179.0 C 506.2 180.3 515.1 167.8 523.9 179.0 C 532.8 190.1 541.6 234.8 550.5 246.0 C 559.3 257.2 568.2 246.0 577.0 246.0 C 585.9 246.0 594.7 246.0 603.6 246.0 C 612.4 246.0 621.3 246.0 630.1 246.0 C 639.0 246.0 647.8 246.0 656.7 246.0 C 665.5 246.0 674.4 246.0 683.2 246.0 C 692.1 246.0 700.9 246.0 709.8 246.0 C 718.6 246.0 727.5 248.8 736.3 246.0 C 745.2 243.2 754.0 237.6 762.9 229.2 C 771.7 220.9 780.6 204.1 789.4 195.7 C 798.3 187.3 811.6 181.7 816.0 179.0 L 816.0 246 L 46.0 246 Z" fill="url(#area)"/>
+<path d="M 46.0 237.6 C 50.4 239.0 63.7 244.6 72.6 246.0 C 81.4 247.4 90.3 257.2 99.1 246.0 C 108.0 234.8 116.8 208.3 125.7 179.0 C 134.5 149.6 143.4 78.4 152.2 70.0 C 161.1 61.6 169.9 99.3 178.8 128.7 C 187.6 158.0 196.5 226.4 205.3 246.0 C 214.2 265.6 223.0 246.0 231.9 246.0 C 240.7 246.0 249.6 246.0 258.4 246.0 C 267.3 246.0 276.1 246.0 285.0 246.0 C 293.8 246.0 302.7 258.6 311.5 246.0 C 320.4 233.4 329.2 174.8 338.1 170.6 C 346.9 166.4 355.8 208.3 364.6 220.9 C 373.5 233.4 382.3 243.2 391.2 246.0 C 400.0 248.8 408.9 251.6 417.7 237.6 C 426.6 223.7 435.4 173.4 444.3 162.2 C 453.1 151.0 462.0 167.8 470.8 170.6 C 479.7 173.4 488.5 177.6 497.4 179.0 C 506.2 180.3 515.1 167.8 523.9 179.0 C 532.8 190.1 541.6 234.8 550.5 246.0 C 559.3 257.2 568.2 246.0 577.0 246.0 C 585.9 246.0 594.7 246.0 603.6 246.0 C 612.4 246.0 621.3 246.0 630.1 246.0 C 639.0 246.0 647.8 246.0 656.7 246.0 C 665.5 246.0 674.4 246.0 683.2 246.0 C 692.1 246.0 700.9 246.0 709.8 246.0 C 718.6 246.0 727.5 248.8 736.3 246.0 C 745.2 243.2 754.0 237.6 762.9 229.2 C 771.7 220.9 780.6 204.1 789.4 195.7 C 798.3 187.3 811.6 181.7 816.0 179.0" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="46.0" cy="237.6" r="2.6" fill="#bf91f3"/>
+<circle cx="72.6" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="99.1" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="125.7" cy="179.0" r="2.6" fill="#bf91f3"/>
+<circle cx="152.2" cy="70.0" r="2.6" fill="#bf91f3"/>
+<circle cx="178.8" cy="128.7" r="2.6" fill="#bf91f3"/>
+<circle cx="205.3" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="231.9" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="258.4" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="285.0" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="311.5" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="338.1" cy="170.6" r="2.6" fill="#bf91f3"/>
+<circle cx="364.6" cy="220.9" r="2.6" fill="#bf91f3"/>
+<circle cx="391.2" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="417.7" cy="237.6" r="2.6" fill="#bf91f3"/>
+<circle cx="444.3" cy="162.2" r="2.6" fill="#bf91f3"/>
+<circle cx="470.8" cy="170.6" r="2.6" fill="#bf91f3"/>
+<circle cx="497.4" cy="179.0" r="2.6" fill="#bf91f3"/>
+<circle cx="523.9" cy="179.0" r="2.6" fill="#bf91f3"/>
+<circle cx="550.5" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="577.0" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="603.6" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="630.1" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="656.7" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="683.2" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="709.8" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="736.3" cy="246.0" r="2.6" fill="#bf91f3"/>
+<circle cx="762.9" cy="229.2" r="2.6" fill="#bf91f3"/>
+<circle cx="789.4" cy="195.7" r="2.6" fill="#bf91f3"/>
+<circle cx="816.0" cy="179.0" r="2.6" fill="#bf91f3"/>
+<text x="46.0" y="266" fill="#8b90a8" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle">06-12</text>
+<text x="444.3" y="266" fill="#8b90a8" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle">06-27</text>
+<text x="816.0" y="266" fill="#8b90a8" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle">07-11</text>
+</svg>
